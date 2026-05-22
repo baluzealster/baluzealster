@@ -168,14 +168,15 @@ Predictive vehicle analysis using CAN bus, UART, RabbitMQ, and AWS EC2 for real-
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=baluzealster&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" alt="GitHub Stats" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=baluzealster&theme=tokyonight" alt="GitHub Stats" width="48%" />
 <img src="https://streak-stats.demolab.com/?user=baluzealster&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baluzealster&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae" alt="Top Languages" width="50%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=baluzealster&theme=tokyonight" alt="Top Languages" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=baluzealster&theme=tokyonight" alt="Most Commit Language" width="48%" />
 
 </div>
 
